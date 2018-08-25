@@ -15,5 +15,7 @@ public class AppTest {
     public void shouldAnswerWithTrue() {
 
         System.out.println("123456");
+
+        // this is test
     }
 }
