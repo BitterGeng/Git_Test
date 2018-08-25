@@ -16,6 +16,6 @@ public class AppTest {
 
         System.out.println("123456");
 
-        //this is test
+        // this is test
     }
 }
